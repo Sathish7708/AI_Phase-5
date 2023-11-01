@@ -37,7 +37,7 @@ install jupyter notebook in your commend prompt
 1. Clone the repository:
 
    bash
-   git clone :https://github.com/Sathish7708/AI_Phase-5.git
+   git clone : https://github.com/Sathish7708/AI_Phase-5.git
  
  Install the required Python packages:
 
